@@ -9,3 +9,5 @@ Copy and paste into your Terraform configuration, insert the variables, and run 
   source  = "lazizbekravshanov/keypair/aws"
   version = "0.0.1"
 }```
+
+#
